@@ -1,4 +1,4 @@
 # Neural-HDR-Video-Compression
 A NHVC method for HDR video compression and a large-scale HDRVD10K dataset for HDR-NVC training
 # Introduction
-Codes and datasets will be released until the paper is accepted.
+The source code and datasets will be made publicly available upon the acceptance of this paper.
